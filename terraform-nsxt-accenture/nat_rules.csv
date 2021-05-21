@@ -1,0 +1,4 @@
+description,display_name,action,source_networks,destination_networks,translated_networks,gateway_path,logging,scope
+1,"dnat_rule-1","REFLEXIVE",9.1.1.0/24,11.1.1.1,10.1.1.1,/infra/tier-0s/Tier-0-gateway-01,false,/infra/tier-0s/Tier-0-gateway-01/locale-services/default/interfaces/Uplink-1
+2,"dnat_rule-1","REFLEXIVE",10.1.1.0/24,12.1.1.1,10.1.1.1,/infra/tier-0s/Tier-0-gateway-01,true,/infra/tier-0s/Tier-0-gateway-01/locale-services/default/interfaces/Uplink-1
+3,"dnat_rule-1","REFLEXIVE",10.1.1.0/24,12.1.1.1,10.1.1.1,/infra/tier-0s/Tier-0-gateway-01,false,/infra/tier-0s/Tier-0-gateway-01/locale-services/default/interfaces/Uplink-1
