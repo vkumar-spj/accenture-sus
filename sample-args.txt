@@ -1,0 +1,5 @@
+--nsxmgr=NSXMGR
+--user=USER
+--password=PASSWORD
+--tier0=TIER0
+--tier1=TIER1
